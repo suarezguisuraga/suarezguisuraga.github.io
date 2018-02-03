@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nadine y Ángel</title>
-    <link>http://suarezguisuraga.com/dGhpcyBpcyBqdXN0IGEgYmFzZTY0IHN0cmluZw==/es/</link>
-    <description>Recent content on Nadine y Ángel</description>
+    <title>Nadine und Ángel</title>
+    <link>https://suarezguisuraga.com/dGhpcyBpcyBqdXN0IGEgYmFzZTY0IHN0cmluZw==/de/</link>
+    <description>Recent content on Nadine und Ángel</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
+    <language>de-DE</language>
     
-	<atom:link href="http://suarezguisuraga.com/dGhpcyBpcyBqdXN0IGEgYmFzZTY0IHN0cmluZw==/es/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://suarezguisuraga.com/dGhpcyBpcyBqdXN0IGEgYmFzZTY0IHN0cmluZw==/de/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
