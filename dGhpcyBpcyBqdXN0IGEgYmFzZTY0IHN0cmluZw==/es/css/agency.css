@@ -616,8 +616,8 @@ section h3.section-subheading {
 
     .timeline>li .timeline-image h4 {
         margin-top: 30px;
-        font-size: 12px;
-        line-height: 20px;
+        font-size: 24px;
+        line-height: 30px;
     }
 
     .timeline>li.timeline-inverted>.timeline-panel {
