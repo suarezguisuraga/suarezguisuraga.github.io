@@ -42,8 +42,8 @@
   
   <script>
 	var ref = document.referrer;
-	if(!ref.match("/http://(www.)?suarezguisuraga.com(/)?(.*)?/gi"){
-		window.location = http://www.suarezguisuraga.com;
+	if(!ref.match(/^https?:\/\/([^\/]+\.)?suarezguisuraga\.com(\/|$)/i){
+		window.location = "http://www.suarezguisuraga.com";
 	}
   </script>
 </head>
